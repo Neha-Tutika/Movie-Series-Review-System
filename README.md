@@ -81,26 +81,6 @@ src/
     └── Main.java
 ```
 
----
-
-## 🖥️ Menu Options
-
-```
-** Menu Options **
-1  Fetch Trending Movies & Series
-2  Filter by Country
-3  Filter by Language
-4  Search by Director
-5  Filter by Genre
-6  Add to Watchlist
-7  Add a Review
-8  View Reviews of a Media
-9  Switch User
-10 View All Users and Their Reviews
-0  Exit
-```
-
-
 
 ## ⚠️ Validations
 
